@@ -1,0 +1,7 @@
+Added Component: Designator=U3(SO8_N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetU2_4 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=NetU2_1 Pin=U3-5
+Added Pin To Net: NetName=5V Pin=U3-8
+Added Member To Class: ClassName=3102_Sheet Member=Component U3 AAL002-02

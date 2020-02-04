@@ -1,0 +1,7 @@
+Added Component: Designator=P1(MHDR1X4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=SDA Pin=P1-3
+Added Pin To Net: NetName=SCL Pin=P1-4
+Added Member To Class: ClassName=3102_Sheet Member=Component P1 I2C Connector
