@@ -1,0 +1,3 @@
+Remove Pin=U4-1 From Net=RESET
+Remove Pin=U4-9 From Net=XTAL1
+Remove Pin=U4-10 From Net=XTAL2

@@ -1,0 +1,19 @@
+Remove Pin=R3-1 From Net=AREF
+Remove Pin=U4-7 From Net=AREF
+Remove Pin=U4-8 From Net=GND
+Remove Pin=U4-20 From Net=AVCC
+Remove Pin=U4-21 From Net=AREF
+Remove Pin=U4-22 From Net=GND
+Remove Pin=U4-23 From Net=ADC0
+Remove Pin=U4-24 From Net=ADC1
+Remove Pin=U4-25 From Net=ADC2
+Remove Pin=U4-26 From Net=ADC3
+Remove Pin=U4-27 From Net=SDA
+Remove Pin=U4-28 From Net=SCL
+Change Component Footprint: Designator=R1 Old Footprint=RESC1608X55X25LL10T15 New Footprint=J1-0603
+Change Component Comment: Designator=R1 Old Comment=RT0603BRD0711KL New Comment=Res3
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=P7 NewDesignator=P1
+Change Component Designator: OldDesignator=U1 NewDesignator=U4
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
