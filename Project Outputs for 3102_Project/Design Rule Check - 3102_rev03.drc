@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Public\Documents\Altium\Projects\3102_Project\3102_rev03.PcbDoc
+PCB File : I:\Altium\Projects\3102_Project\3102_rev03.PcbDoc
 Date     : 3/5/2020
-Time     : 11:27:25 AM
+Time     : 1:18:44 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
    Violation between Clearance Constraint: (7.874mil < 10mil) Between Pad C2-1(1725mil,2473.347mil) on Top Layer And Pad C2-2(1725mil,2516.654mil) on Top Layer 
@@ -76,4 +76,4 @@ Rule Violations :0
 
 Violations Detected : 31
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
